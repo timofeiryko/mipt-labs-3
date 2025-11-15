@@ -8,4 +8,4 @@ This repository contains lab assignments for the third semester at Moscow Instit
 
 - [3.5.1. Изучение плазмы газового разряда в неоне](https://nbviewer.org/github/timofeiryko/mipt-labs-3/blob/master/8-3.5.1/main.ipynb)
 
-- [3.2.4+3.2.5. Свободные и вынужденные колебания в RLC-контуре](https://nbviewer.org/github/timofeiryko/mipt-labs-3/blob/master/6-3.2.4_3.2.5/lab_osc_RLC.ipynb)
+- [3.2.4+3.2.5. Свободные и вынужденные колебания в RLC-контуре](https://nbviewer.org/github/timofeiryko/mipt-labs-3/blob/master/6-3.2.4-3.2.5/lab_osc_RLC.ipynb)
